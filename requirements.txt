@@ -1,0 +1,7 @@
+faster_whisper==1.1
+kokoro_onnx==0.3
+nltk==3.9
+numpy==1.21
+ollama==0.4
+sounddevice==0.5
+soundfile==0.13
